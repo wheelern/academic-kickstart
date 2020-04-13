@@ -1,0 +1,15 @@
+# Font style metadata
+name = "NW"
+
+# Optional Google font URL
+google_fonts = "Lora"
+
+# Font families
+heading_font = "Avenir Next"
+body_font = "Lora"
+nav_font = "Avenir Next"
+mono_font = "Roboto Mono"
+
+# Font size
+font_size = "20"
+font_size_small = "16"
