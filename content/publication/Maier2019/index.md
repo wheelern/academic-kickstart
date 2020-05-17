@@ -1,5 +1,5 @@
 ---
-title: "GGene drives for schistosomiasis transmission control"
+title: "Gene drives for schistosomiasis transmission control"
 authors:
 - Theresa Maier
 - admin
@@ -49,10 +49,10 @@ url_pdf: https://journals.plos.org/plosntds/article/file?id=10.1371/journal.pntd
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-# image:
+image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  # focal_point: ""
-  # preview_only: false
+  focal_point: ""
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
