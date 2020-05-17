@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = ""
+title = "New Manuscript!"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "hero-academic.png"
@@ -24,11 +24,11 @@ hero_media = "hero-academic.png"
   # gradient_end = "#2b94c3"
 
   # Background image.
-  image = "hero.pdf"  # Name of image in `static/img/`.
+  image = "hero.png"  # Name of image in `static/img/`.
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_size = "actual"  #  Options are `cover` (default), `contain`, or `actual` size.
-  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+  image_size = "contain"  #  Options are `cover` (default), `contain`, or `actual` size.
+  image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
   text_color_light = true
@@ -46,8 +46,13 @@ hero_media = "hero-academic.png"
   url = "https://github.com/zamanianlab/BrugiaChemo-ms"
   label = "View the analysis source code"
 
-[cta_note]
-  label = '<a class="js-github-release" href="https://zamanianlab.shinyapps.io/ChemoR/" >Probe the data yourself.<!-- V --></a>'
+# [cta_note]
+#   label = '<a class="js-github-release" href="https://zamanianlab.shinyapps.io/ChemoR/" >Probe the data yourself.<!-- V --></a>'
 +++
+<br> </br>
+<br> </br>
+<br> </br>
 
 **See our latest pre-print on chemosensory receptors in parasitic nematodes.**
+
+<a class="js-github-release" href="https://zamanianlab.shinyapps.io/ChemoR/" >Probe the data yourself.<!-- V --></a>

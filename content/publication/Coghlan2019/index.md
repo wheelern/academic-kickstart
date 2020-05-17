@@ -1,14 +1,8 @@
 ---
 title: "Comparative genomics of the major parasitic worms"
 authors:
-- admin
-- Nathalie Dinguirard
-- Joshua Marquez
-- Adrian Gonzalez
-- Mostafa Zamanian
-- Timothy P. Yoshino
-- Maria G. Castillo
-date: "2010-01-04T00:00:00Z"
+- International Helminth Genomes Consortium
+date: "2019-01-04T00:00:00Z"
 doi: "https://dx.doi.org/10.1038%2Fs41588-018-0262-1"
 
 
@@ -64,12 +58,12 @@ projects:
 # slides: example
 ---
 
-# {{% alert note %}}
-# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-# {{% /alert %}}
-#
-# {{% alert note %}}
-# Click the *Slides* button above to demo Academic's Markdown slides feature.
-# {{% /alert %}}
-#
-# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+<!-- {{% alert note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /alert %}}
+
+{{% alert note %}}
+Click the *Slides* button above to demo Academic's Markdown slides feature.
+{{% /alert %}}
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). -->
