@@ -47,7 +47,6 @@ hero_media = "hero-academic.png"
   label = "View the analysis source code"
 
 [cta_note]
-  url = "https://zamanianlab.shinyapps.io/ChemoR/"
   label = "See the Data page to probe the data yourself!"
 +++
 
