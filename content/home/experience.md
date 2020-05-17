@@ -28,7 +28,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Postdoctoral Fellow"
-  company = "Merck Global Health Institute & the University of Wisconsin-Madison"
+  company = "Merck KGaA Global Health Institute & the University of Wisconsin-Madison"
   company_url = "https://www.emdglobalhealthinstitute.com/en_US/home.html"
   location = ""
   date_start = "2017-06-01"

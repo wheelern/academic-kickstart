@@ -47,7 +47,7 @@ hero_media = "hero-academic.png"
   label = "View the analysis source code"
 
 [cta_note]
-  label = "See the Data page to probe the data yourself!"
+  label = '<a class="js-github-release" href="https://zamanianlab.shinyapps.io/ChemoR/" >Probe the data yourself.<!-- V --></a>'
 +++
 
 **See our latest pre-print on chemosensory receptors in parasitic nematodes.**

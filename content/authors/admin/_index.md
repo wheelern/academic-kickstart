@@ -23,6 +23,7 @@ organizations:
 bio: My research interests include neglected tropical diseases, vector-borne helminths, and genomics.
 
 interests:
+- Parasitology
 - Neglected Tropical Diseases
 - Genomics
 - Sensory Biology
