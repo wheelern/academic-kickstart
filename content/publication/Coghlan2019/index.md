@@ -29,7 +29,7 @@ abstract: "Parasitic nematodes (roundworms) and platyhelminths (flatworms) cause
 
 tags:
 
-featured: false
+featured: true
 
 links:
 - name: Nature Genetics
