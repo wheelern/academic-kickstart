@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "New Manuscript!"
+title = "Manuscript published in PLOS Biology"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "hero-academic.png"
@@ -24,7 +24,7 @@ hero_media = "hero-academic.png"
   # gradient_end = "#2b94c3"
 
   # Background image.
-  image = "hero.png"  # Name of image in `static/img/`.
+  image = "hero_new.png"  # Name of image in `static/img/`.
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "contain"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -37,7 +37,7 @@ hero_media = "hero-academic.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://www.biorxiv.org/content/10.1101/683060v3"
+  url = "https://doi.org/10.1371/journal.pbio.3000723"
   label = "Read the manuscript"
   icon_pack = "fas"
   icon = "book-reader"
@@ -53,6 +53,6 @@ hero_media = "hero-academic.png"
 <br> </br>
 <br> </br>
 
-**See our latest pre-print on chemosensory receptors in parasitic nematodes.**
+**See our latest manuscript on chemosensory receptors in parasitic nematodes.**
 
 <a class="js-github-release" href="https://zamanianlab.shinyapps.io/ChemoR/" >Probe the data yourself.<!-- V --></a>
